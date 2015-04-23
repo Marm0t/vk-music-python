@@ -1,0 +1,2 @@
+python vk-music.py
+
